@@ -14,7 +14,7 @@ void main(){
  print(elemanlar);
  List<String> isimler = [];
  isimler.add("value");
- isimler.add("kamil");
+ isimler.add("kamiller");
  print(isimler);
 
  var bebekler = new List(5);
