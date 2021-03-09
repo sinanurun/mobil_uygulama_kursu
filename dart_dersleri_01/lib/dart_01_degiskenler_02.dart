@@ -4,7 +4,7 @@ void main(){
   print(yas);
   double boy = 1.94; // double tanımlamak için . nokta kullnılır
   print(boy);
-  bool cevap = true;
+  bool cevap = true; //false
   String isim = "Veli";
   print(isim + yas.toString() + boy.toString());
   //çoklu değer yazımı için yöntemler

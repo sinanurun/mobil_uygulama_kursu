@@ -6,4 +6,7 @@ void main(){
   print(isim);
   isim = "veli";
   print(isim);
+  var sinif = "9B";
 }
+// ilkel veri tipleri String integer double boolean
+// referans veri tipleri List Map
