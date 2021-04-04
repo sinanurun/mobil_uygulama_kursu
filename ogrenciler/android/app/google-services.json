@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038653110547",
+    "project_id": "ogrencilistesi-bb56e",
+    "storage_bucket": "ogrencilistesi-bb56e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038653110547:android:4e4c8f6385033f648a42e6",
+        "android_client_info": {
+          "package_name": "com.example.ogrenciler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038653110547-k4gcagstcpc2fkk7ej4b6ldjhnb0mn5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMCNC35F5CJiBFamGA8jLK7ekbvDSU-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038653110547-k4gcagstcpc2fkk7ej4b6ldjhnb0mn5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
